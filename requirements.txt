@@ -1,0 +1,4 @@
+watchdog
+requests
+python-telegram-bot
+virustotal-python
