@@ -11,8 +11,6 @@ Key highlights:
 - 🧠 **Threat Intelligence**: Integrates with **VirusTotal API** to check suspicious files, IPs, or hashes.  
 - 🗂️ **Logging**: Saves all detected events in structured JSON for analysis.  
 
-This tool is designed for **cybersecurity learning, SOC simulations, and research projects**.
-
 ---
 
 ## 🚀 Features
